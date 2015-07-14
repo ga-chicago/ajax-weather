@@ -1,6 +1,6 @@
 # ajax-weather
 
-A quick example of how to include weather information on any website! This example utilizes jQuery's `$.getJSON()` method.
+A quick example of how to include weather information on any website! This example utilizes jQuery's `$.getJSON()` method. I highly recommend the <a href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en">JSONView</a> chrome extension, too.
 
 # OpenWeatherMap
 
